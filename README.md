@@ -1,4 +1,4 @@
 # NLTK
 Natural Language Toolkit
 
-Identiy Noun, Verb, Adjective, 
+Find Meaning and definition of Word.
